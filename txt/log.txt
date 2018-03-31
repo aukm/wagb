@@ -1,0 +1,27 @@
+{"version_code":451201,"content":"
+<p>Actualización 6.25</p>
+
+<li> New Base Updated to 2.18.9</li>
+<li> (Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
+<li> Enabled Search Participants</li>
+<li> Enabled Manage Group Admins</li>
+<li> Enabled Group Settings (Server Sided) </li>
+<li> Added 7 New Conversation Bubbles</li>
+<li> Added 4 New Ticks</li>
+<li> Added 16 New Notifying Bar Icons</li>
+<li> Added 5 New Launcher Icons </li>
+<li> Added Option to Hide Admin Caption in Group (Mod 1.2.64)</li>
+<li> Added Option to Color Admin caption in Group (Mod 1.2.65)</li>
+<li> Added Hindi Language (Indian Language) </li>
+<li> Fixed Hidden Chat opening from Phones</li>
+<li> Fixed Hidden Chat opening from Dialer</li>
+<li> Fixed Hidden Message showing in Widget</li>
+<li> Fixed Hidden Chat Opening from Widget</li>
+<li> Fixed Able to call Hidden Chat From Group</li>
+<li> Fixed Showing Hidden Chat when try to Share from Gallery or File Manager. </li>
+<li> Fixed App Opening from Widget even when Locked</li>
+<li> Fixed Crash On Some Devices</li>
+<li> Many More Fixes</li>
+
+","url":"https://www.gbmods.co/?p=19"
+}
