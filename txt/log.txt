@@ -1,27 +1,26 @@
-{"version_code":451201,"content":"
-<p>Actualización 6.25</p>
+{"version_code":0,"content":"
+<p>تحديث 6.40.1</p>
 
-<li> New Base Updated to 2.18.9</li>
-<li> (Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
-<li> Enabled Search Participants</li>
-<li> Enabled Manage Group Admins</li>
-<li> Enabled Group Settings (Server Sided) </li>
-<li> Added 7 New Conversation Bubbles</li>
-<li> Added 4 New Ticks</li>
-<li> Added 16 New Notifying Bar Icons</li>
-<li> Added 5 New Launcher Icons </li>
-<li> Added Option to Hide Admin Caption in Group (Mod 1.2.64)</li>
-<li> Added Option to Color Admin caption in Group (Mod 1.2.65)</li>
-<li> Added Hindi Language (Indian Language) </li>
-<li> Fixed Hidden Chat opening from Phones</li>
-<li> Fixed Hidden Chat opening from Dialer</li>
-<li> Fixed Hidden Message showing in Widget</li>
-<li> Fixed Hidden Chat Opening from Widget</li>
-<li> Fixed Able to call Hidden Chat From Group</li>
-<li> Fixed Showing Hidden Chat when try to Share from Gallery or File Manager. </li>
-<li> Fixed App Opening from Widget even when Locked</li>
-<li> Fixed Crash On Some Devices</li>
-<li> Many More Fixes</li>
+<li> Nueva base actualizada a 2.18.122 </li>
+<li> Opción mejorada de forma exclusiva para contactos / grupos específicos / excepto en respuesta automática </li>
+<li> Mejorado No es necesario reiniciar cuando se usa Privacidad, excepto por Ocultar último visto </li>
+<li> Grabaciones de voz bloqueadas habilitadas (Presiona y desliza hacia arriba / No es necesario retener para la grabación) </li>
+<li> Configuración de grupo habilitada: enviar mensajes (una vez habilitado, solo el administrador puede enviar mensajes en grupo) </li>
+<li> Se agregó Stock Fab (Mod 2.7.9) </li>
+<li> Opción añadida para ocultar el nuevo icono de chat del encabezado (Mod 2.1.11) </li>
+<li> Opción añadida para deshabilitar notificación de mensaje revocado (Mod 6.20) </li>
+<li> Opción agregada para deshabilitar la respuesta automática cuando Hide Read </li>
+<li> Opción añadida para habilitar el icono de video en el encabezado de conversación (Mod 1.1.16) </li>
+<li> Se agregó descarga automática de medios personalizada en chats personalizados </li>
+<li> Agregado ahora Puede buscar por nombre en el servidor de temas </li>
+<li> Idioma italiano y brasileño actualizado </li>
+<li> Color de nombre de contactos fijo cuando se agregan participantes </li>
+<li> Color de burbuja fijo </li>
+<li> Privacidad fija para micrófono azul </li>
+<li> Color de fondo GIF fijo </li>
+<li> Icono de conexión fija que no se muestra en el chat de difusión </li>
+<li> Color de barra de acción fijo, color de fondo de icono, color de cuenta en chats ocultos y chats archivados </li>
+<li> Muchas otras soluciones </li>
 
 ","url":"https://www.gbmods.co/?p=19"
 }
